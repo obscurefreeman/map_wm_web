@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://obscurefreeman.github.io/map_wm_web/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: '遇见自然',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `威廉莫里斯主题的服务区`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
